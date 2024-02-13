@@ -1,0 +1,10 @@
+[
+    {
+        "categoria": "simple",
+        "texto": "{PLAYER1} bebe."
+    },
+    {
+        "categoria": "simple",
+        "texto": "{PLAYER2} hace el pino. Si no puede, bebe."
+    }
+]
