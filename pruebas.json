@@ -1,10 +1,90 @@
 [
     {
         "categoria": "simple",
-        "texto": "{PLAYER1} bebe."
+        "texto": "El jugador más joven y el más mayor tienen que jugar a piedra-papel-tijera. El que pierda bebe 1 trago"
     },
     {
         "categoria": "simple",
-        "texto": "{PLAYER2} hace el pino. Si no puede, bebe."
+        "texto": "Si {player1} puede tocarse la barbilla con la punta del pie, puede obligar a un jugador a beber 2 tragos"
+    },
+    {
+        "categoria": "simple",
+        "texto": "Todos los que tengan una S en su nombre, beben 1 trago"
+    },
+    {
+        "categoria": "simple",
+        "texto": "{player1} tiene que obligar a un jugador que sea más alto a beber 2 tragos. Si no hay ningún jugador más alto, bebe 2 tragos"
+    },
+    {
+        "categoria": "simple",
+        "texto": "{player1} puede obligar a {player2} a seguir a una persona de su elección en Instagram. Si se niega, tendrá que beber 2 tragos"
+    },
+    {
+        "categoria": "simple",
+        "texto": "{player1} susurra algo gracioso al oido a {player2} mientras bebe un trago"
+    },
+    {
+        "categoria": "simple",
+        "texto": "{player1} tiene que adivinar el nombre, apellido y edad de cada otro jugador. Bebe un trago por cada fallo"
+    },
+    {
+        "categoria": "simple",
+        "texto": "{player1} y {player2} brindan por la antigua Yugoslavia y se toman un trago"
+    },
+    {
+        "categoria": "simple",
+        "texto": "Toman un trago todos los que alguna vez hayan mentido a la policía"
+    },
+    {
+        "categoria": "simple",
+        "texto": "Cualquier jugador puede tomar un trago discretamente si cree que la persona que lee esta frase está muy lejos de ser la más inteligente del grupo"
+    },
+    {
+        "categoria": "simple",
+        "texto": "Los jugadores votan quien es el más 'criptobro' del grupo, y ese jugador bebe un trago"
+    },
+    {
+        "categoria": "simple",
+        "texto": "Quienes beban ron, ponen la cancion de Piratas del Caribe y beben 1 trago directo de la botella"
+    },
+    {
+        "categoria": "simple",
+        "texto": "{player1}, el jugador que esté a tu derecha elige alguien de tu lista de contactos que empiece por las letras a, b o c para que cuentes quién es y de qué lo conoces"
+    },
+    {
+        "categoria": "simple",
+        "texto": "Juanito brinda por algo a su elección con un jugador que quiera. Los dos bebes un trago después de brindar"
+    },
+    {
+        "categoria": "simple",
+        "texto": "Todos deben votar quién canta peor del grupo. Si no hay acuerdo, los que hayan empatado con más votos deberán demostrarlo cantando La Macarena"
+    },
+    {
+        "categoria": "simple",
+        "texto": "{player1}, si quieres, bebe 1 trago"
+    },
+    {
+        "categoria": "simple",
+        "texto": "{player1} y {player2} juegan a un juego: deben mirarse fijamente, y el primero que pestañee pierde y bebe 2 tragos"
+    },
+    {
+        "categoria": "simple",
+        "texto": "{player1}, haz la croqueta, o si no, tomas 3 tragos"
+    },
+    {
+        "categoria": "simple",
+        "texto": "Si 2 jugadores o más son del mismo año, todos los jugadores que hayan nacido ese año beben 1 trago"
+    },
+    {
+        "categoria": "simple",
+        "texto": "{player1} cuenta un chiste y los que se rían beben (incluido el que cuenta el chiste)"
+    },
+    {
+        "categoria": "simple",
+        "texto": "{player1} imita a una persona del grupo. Si nadie sabe a quién está imitando, bebe 1 trago"
+    },
+    {
+        "categoria": "simple",
+        "texto": "{player1} tiene que cantar el himno de su país con la mano en el corazón. Si se niega, bebe 2 tragos"
     }
 ]
