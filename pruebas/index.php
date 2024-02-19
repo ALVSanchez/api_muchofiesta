@@ -7,9 +7,9 @@ $indice_prueba = array_rand($pruebas);
 foreach($pruebas as $i=>$prueba) {
     $prueba->id = $i;
 }
-$prueba->id = $indice_prueba;
-$json_prueba = json_encode($prueba, true);
+$json_prueba = json_encode($pruebas, true);
 
-print(json_encode($pruebas));
+print($json_prueba);
+
 
 ?>
